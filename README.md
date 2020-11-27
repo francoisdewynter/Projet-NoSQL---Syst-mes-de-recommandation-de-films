@@ -7,4 +7,4 @@ L'objectif du projet est de réaliser un ou plusieurs système(s) de recommendat
 - Nettoyage et tri des données de films en fonction des catégories : Titre, Genre et Note
 - Preprocessing
 - Visualisation des données avec matplotlib et seaborn
-- Entrainement d'un algorithme de recommandation (SVD)
+- Entrainement d'un algorithme de recommandation depuis la librairie Python Surprise (SVD)
